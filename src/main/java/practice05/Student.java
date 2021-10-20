@@ -1,6 +1,6 @@
 package practice05;
 
-public class Student extends Person{
+public class Student extends Person {
 
     private int klass;
 
